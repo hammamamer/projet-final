@@ -1,0 +1,17 @@
+#image1{
+    background-repeat: no-repeat;
+    width: 205%;
+}
+#fb{
+    background-color: rgb(33, 59, 177);
+    color: white
+}
+.carousel-inner
+{
+    height: 300px;
+    width: 500px;
+    
+}
+#dav{
+   display: inline;
+}
